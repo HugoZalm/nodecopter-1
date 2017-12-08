@@ -1,0 +1,16 @@
+.buttonbar {
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 0;
+    height: 20px;
+    background: gray;
+    color: black;
+    padding: 5px 10px;
+}
+
+.button {
+    height: 25px;
+    color: #222222;
+    border-radius: 5px;
+}
