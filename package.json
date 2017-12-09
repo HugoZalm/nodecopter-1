@@ -19,7 +19,7 @@
   "dependencies": {
     "ar-drone": "0.3.1",
     "express": "3.0.x",
-    "ejs": "~0.8.3",
+    "ejs": "2.5.7",
     "socket.io": "~0.9.4",
     "dronestream": "1.1.1",
     "dateformat": "~1.0.6-1.2.3",
